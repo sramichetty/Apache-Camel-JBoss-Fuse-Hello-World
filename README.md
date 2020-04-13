@@ -15,7 +15,7 @@ At the core of the Camel framework is a routing engine—or more precisely, a ro
 
 ### Why use Camel
 
-1.Routing and mediation engine
-2.Extensive component library
+- Routing and mediation engine
+- Extensive component library
 
 
