@@ -9,6 +9,7 @@ we can write code that helps to bridge a connection between these two if there i
 
 At the core of the Camel framework is a routing engine—or more precisely, a routing-engine builder. It allows you to define your own routing rules, decide from which sources to accept messages, and determine how to process and send those messages to other destinations. Camel uses an integration language that allows you to define complex routing rules, akin to business processes. 
 
+![Screenshot 2020-04-13 at 10 30 31 PM](https://user-images.githubusercontent.com/51193242/79140991-8a00c100-7dd6-11ea-9432-c49ce31e92e4.png)
 
 
 
