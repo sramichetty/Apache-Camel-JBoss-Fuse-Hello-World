@@ -17,5 +17,15 @@ At the core of the Camel framework is a routing engine—or more precisely, a ro
 
 - Routing and mediation engine
 - Extensive component library
+- Domain-specific language (DSL)
+- Payload-agnostic router
+- Modular and pluggable architecture
+- Plain Old Java Object (POJO) model
+- Easy configuration
+- Automatic type converters
+- Lightweight core ideal for microservices
+- Cloud ready
+- Test kit
+- Vibrant community
 
 
